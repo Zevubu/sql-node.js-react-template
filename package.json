@@ -1,0 +1,11 @@
+{
+  "name": "sql-node.js-react-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Zevubu/sql-node.js-react-template.git",
+  "author": "Zev Hoffman <zevubu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  }
+}
