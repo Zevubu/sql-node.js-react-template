@@ -6,6 +6,7 @@
   "author": "Zev Hoffman <zevubu@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "hapi": "^18.1.0"
   }
 }
